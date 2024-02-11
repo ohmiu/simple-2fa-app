@@ -1,6 +1,7 @@
 # Simple 2FA App
 
 Install requirements: `pip install -r requirements.txt`
+
 Start: `python app.py`
 
 **How to add tokens?** 
